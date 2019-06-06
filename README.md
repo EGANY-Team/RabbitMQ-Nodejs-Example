@@ -1,2 +1,2 @@
-# http.response.status
-The module contains constants for the HTTP status code and the corresponding message content.
+# RabbitMQ-Nodejs-Example
+An example using RabbitMQ - Nodejs.
